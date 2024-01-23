@@ -21,3 +21,4 @@ globals = {
     "xmlattributes",
     "prettyformatjson"
 }
+codes = true
